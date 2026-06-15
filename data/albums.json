@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El álbum más vendido de la historia.",
+    "descripcion": "Álbum de Michael Jackson que redefinió la música pop de los años 80."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock Progresivo",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "dark_side.avif",
+    "slug": "the-dark-side-of-the-moon",
+    "resumen": "Un viaje sonoro al subconsciente humano.",
+    "descripcion": "Obra maestra del rock progresivo que trata temas como el tiempo, la locura y la avaricia."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Hard Rock",
+    "anio": 1980,
+    "sello": "Albert / Atlantic",
+    "pistas": 10,
+    "imagen": "back_in_black.avif",
+    "slug": "back-in-black",
+    "resumen": "El regreso triunfal de AC/DC.",
+    "descripcion": "Uno de los álbumes de rock más influyentes de todos los tiempos, dedicado a la memoria de Bon Scott."
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Soft Rock",
+    "anio": 1977,
+    "sello": "Warner Bros.",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "slug": "rumours",
+    "resumen": "Un clásico del soft rock de los 70.",
+    "descripcion": "Álbum icónico nacido de las tensiones personales dentro de la banda, con grandes éxitos como 'Dreams' y 'Go Your Own Way'."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey_road.avif",
+    "slug": "abbey-road",
+    "resumen": "La última grabación de estudio de The Beatles.",
+    "descripcion": "Reconocido por su icónica portada y la famosa mezcla de canciones en la segunda cara (el medley)."
+  },
+  {
+    "titulo": "Hotel California",
+    "artista": "Eagles",
+    "genero": "Rock Clásico",
+    "anio": 1976,
+    "sello": "Asylum",
+    "pistas": 9,
+    "imagen": "hotel_california.avif",
+    "slug": "hotel-california",
+    "resumen": "Una mirada cínica al sueño americano.",
+    "descripcion": "La obra cumbre de los Eagles que incluye la legendaria canción principal y explora los excesos de la vida en Los Ángeles."
+  }
+]
